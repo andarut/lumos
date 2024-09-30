@@ -1,0 +1,4 @@
+Thunderbird + 3
+xdotool windowmove 3 45 284
+xdotool windowsize 3 1830 711
+xdotool windowkill 3
